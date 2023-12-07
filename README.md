@@ -1,2 +1,2 @@
-# RockPaperScissors
-RockPaperScissors game made with (HTML, CSS, javaScript)
+# Rock Paper Scissors
+Rock Paper Scissors game made with (HTML, CSS, javaScript)
